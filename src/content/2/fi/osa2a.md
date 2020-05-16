@@ -175,7 +175,7 @@ const App = (props) => {
 
 Koska <i>li</i>-tagit generoiva koodi on Javascriptia, tulee se sijoittaa JSX-templatessa aaltosulkujen sisälle kaiken muun Javascript-koodin tapaan.
 
-Parannetaan koodin luetteloa vielä jakamalla nuolifunktion määrittely useammalle riville:
+Parannetaan koodin luettavuutta vielä jakamalla nuolifunktion määrittely useammalle riville:
 
 ```js
 const App = (props) => {
